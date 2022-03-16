@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="homework10:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9b803bd5-6b8a-4249-981c-3e266c97b75a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/homework10/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/src/com/oocourse/spec2/main/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/src/component/MyGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/src/component/MyMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/src/exceptions/MyEqualGroupIdException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/src/exceptions/MyEqualMessageIdException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/src/exceptions/MyGroupIdNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework10/src/exceptions/MyMessageIdNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework2/src/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework2/src/Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/DebugInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/PersonQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/SimpleQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/TransferManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/WaitingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/BookException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Bookset.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Bookshelf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Math.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Novel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Other.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/OtherA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/OtherS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Poetry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/pre2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/basic.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src/ConsumerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src/ProducerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src2/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src2/Observerable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src2/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src2/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sVbgsCNAFZu5tjs2PyhqBAiyr2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86181\OneDrive\code\Java\my_code\homework10\src\com\oocourse\spec2\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="homework10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9b803bd5-6b8a-4249-981c-3e266c97b75a" name="Default Changelist" comment="" />
+      <created>1620960819782</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620960819782</updated>
+      <workItem from="1620960821705" duration="151000" />
+      <workItem from="1620960999255" duration="1146000" />
+      <workItem from="1621042453132" duration="23768000" />
+      <workItem from="1621082510076" duration="879000" />
+      <workItem from="1621154853582" duration="225000" />
+      <workItem from="1621163930809" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/component/MyNetwork.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17443df6-48ef-40be-ba09-43eb4656e425" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="68c398b2-9248-4549-8e07-9dcdf1b09697" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1qIJUVhwcazWoHuT7JQpp0od9ui" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../homework2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17443df6-48ef-40be-ba09-43eb4656e425" name="Default Changelist" comment="" />
+      <created>1616761186872</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616761186872</updated>
+      <workItem from="1616761187999" duration="5259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1359" y="474" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1616764345160">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="1359" y="474" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.2752.1112@0.0.2752.1112" timestamp="1616764345160" />
+    <state x="1385" y="377" key="FileChooserDialogImpl" timestamp="1616768972125">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="1385" y="377" key="FileChooserDialogImpl/0.0.2752.1112@0.0.2752.1112" timestamp="1616768972125" />
+    <state x="1853" y="342" key="MetricsReloaded.ExplanationDialog" timestamp="1616766038935">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="1853" y="342" key="MetricsReloaded.ExplanationDialog/0.0.2752.1112@0.0.2752.1112" timestamp="1616766038935" />
+    <state x="1257" y="351" key="MetricsReloaded.MetricsConfigurationDialog" timestamp="1616761723850">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="1257" y="351" key="MetricsReloaded.MetricsConfigurationDialog/0.0.2752.1112@0.0.2752.1112" timestamp="1616761723850" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1616761941547">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.2752.1112@0.0.2752.1112" timestamp="1616761941547" />
+    <state x="1068" y="261" key="SettingsEditor" timestamp="1616761847474">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="1068" y="261" key="SettingsEditor/0.0.2752.1112@0.0.2752.1112" timestamp="1616761847474" />
+    <state x="1618" y="229" key="run.anything.popup" timestamp="1616761941549">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="1618" y="229" key="run.anything.popup/0.0.2752.1112@0.0.2752.1112" timestamp="1616761941549" />
+  </component>
+</project>

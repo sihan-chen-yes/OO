@@ -1,0 +1,12 @@
+{
+	"1":"继承Thread类",
+	"2":"实现Runnable接口",
+	"3":"start",
+	"4":"synchronized",
+	"5":"notify",
+	"6":"notifyAll",
+	"7":"单件模式",
+	"8":"extends Thread",
+	"9":"process2.start();",
+	"10":"C"
+}

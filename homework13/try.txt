@@ -1,0 +1,4 @@
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Class1","_type":"UMLClass","_id":"AAAAAAF52653BH8plP8="}
+{"_parent":"AAAAAAF52653BH8plP8=","visibility":"public","name":"Operation1","_type":"UMLOperation","_id":"AAAAAAF5265\/2H9SwQ0="}
+END_OF_MODEL
+CLASS_OPERATION_PARAM_TYPE Class1 Operation1

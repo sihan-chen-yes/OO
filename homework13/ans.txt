@@ -1,0 +1,32 @@
+Total class count is 15.
+Ok, operation count of class "Class2" is 4.
+Ok, attribute count of class "Class6" is 5.
+Ok, attribute count of class "Class4" is 4.
+Ok, operation visibility of method "Operation1" in class "Class2" is public: 1, protected: 1, private: 1, package-private: 1.
+Ok, operation visibility of method "OperationnotExist" in class "Class2" is public: 0, protected: 0, private: 0, package-private: 0.
+Failed, duplicated attribute "Attribute1" in class "Class7".
+Failed, attribute "AttributenotEx" not found in class "Class7".
+Ok, attribute "Attribute2" in class "Class7"'s visibility is public.
+Failed, duplicated attribute "Attribute3" in class "Class7".
+Failed, duplicated attribute "Attribute1" in class "Class7".
+Failed, attribute "AttributenotEx" not found in class "Class7".
+Failed, duplicated attribute "Attribute3" in class "Class7".
+Failed, wrong type of parameters or return value in method "Operation1" of class "Class1".
+Failed, duplicated method "Operation1" in class "Class2".
+Ok, method "Operation1" in class "Class7" has parameter tables and return value: (Classdup, Classdup, return: Classdup), (String, int, return: String).
+Ok, associated classes of class "Class7" are (Class8, Class8, Class9).
+Failed, duplicated class "Class8".
+Ok, associated classes of class "Class11" are (Class8, Class8, Class9).
+Ok, associated classes of class "Class10" are (Class10, Class8).
+Failed, duplicated class "Class8".
+Ok, implement interfaces of class "Class9" are ().
+Ok, implement interfaces of class "Class11" are (Interface3, Interface5).
+Ok, implement interfaces of class "Class2" are (Interface3).
+Ok, implement interfaces of class "Class1" are (Interface3).
+Ok, implement interfaces of class "Class6" are (Interface11, Interface3, Interface4, Interface6, Interface7, Interface8, Interface9).
+Ok, implement interfaces of class "Class7" are (Interface3, Interface5).
+Ok, top base class of class "Class11" is Class1.
+Ok, top base class of class "Class9" is Class9.
+Ok, top base class of class "Class5" is Class1.
+Failed, duplicated class "Classdup".
+No, attribute Attribute1 in Class1, Attribute3 in Class1, Attribute1 in Class12, Attribute2 in Class12, Attribute3 in Class12, Attribute1 in Class2, Attribute1 in Class4, Attribute1 in Class5, are not hidden.

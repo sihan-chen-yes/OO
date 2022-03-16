@@ -1,0 +1,4 @@
+{"_parent":"AAAAAAFF+qBWK6M3Z8Y=","visibility":"public","name":"Class1","_type":"UMLClass","_id":"AAAAAAF54KgTpwDdWi0="}
+{"_parent":"AAAAAAF54KgTpwDdWi0=","visibility":"public","name":"Operation1","_type":"UMLOperation","_id":"AAAAAAF54KgaOQEGN8c="}
+{"_parent":"AAAAAAF54KgaOQEGN8c=","name":null,"_type":"UMLParameter","_id":"AAAAAAF54KirGgENhRQ=","type":"null","direction":"return"}
+{"_parent":"AAAAAAF54KgaOQEGN8c=","name":"a","_type":"UMLParameter","_id":"AAAAAAF54Ki89QEQdns=","type":"int","direction":"in"}

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2417bfc3-da3e-4285-af71-4cb0891e5b40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../homework2/src/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework2/src/Regex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/DebugInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/Dispatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/PersonQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/SimpleQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/TransferManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../homework7/src/WaitingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/BookException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Bookset.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Bookshelf.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Computer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/MainClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Math.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Novel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Other.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/OtherA.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/OtherS.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/out/production/pre2/Poetry.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/pre2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pre2/src" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../recursion/src/Parser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/basic.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src/ConsumerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src/MainClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src/ProducerThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src2/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src2/Observerable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src2/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training2/src2/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/MyGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/MyGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/MyMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/MyMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/MyNetwork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/MyNetwork.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/component/MyPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/component/MyPerson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/MyEqualGroupIdException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/MyEqualGroupIdException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/MyEqualMessageIdException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/MyEqualMessageIdException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/MyEqualPersonIdException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/MyEqualPersonIdException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/MyEqualRelationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/MyEqualRelationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/MyGroupIdNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/MyGroupIdNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/MyMessageIdNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/MyMessageIdNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/MyPersonIdNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/MyPersonIdNotFoundException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exceptions/MyRelationNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/MyRelationNotFoundException.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1scFUj34X3YnewrcXgquRWLC4Ld" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainClass" />
+      <module name="homework10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2417bfc3-da3e-4285-af71-4cb0891e5b40" name="Default Changelist" comment="" />
+      <created>1621163991931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621163991931</updated>
+      <workItem from="1621163995399" duration="193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
